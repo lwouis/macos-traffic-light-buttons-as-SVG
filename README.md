@@ -1,7 +1,4 @@
 # macOS Traffic Light Buttons as SVG
-macOS red/yellow/green traffic light buttons - an approximation in SVG
-
----
 
 In case it's handy for your app to emulate macOS's "traffic light" buttons, here's a flat graphical approximation of them in SVG format.
 
